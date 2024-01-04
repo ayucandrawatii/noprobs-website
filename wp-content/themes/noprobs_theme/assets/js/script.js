@@ -32,9 +32,6 @@
 
 })(jQuery)
 
-//Animation library
-AOS.init();
-
 //Get the button
 var mybutton = document.getElementById("myBtn");
 
